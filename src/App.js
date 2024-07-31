@@ -10,9 +10,11 @@ import Eight from "./Eight";
 import Nine from "./Nine";
 import Ten from "./Ten";
 import Eleven from "./Eleven";
+import Twelve from "./Twelve";
+import Demo from "./demo";
 
 const App = () => {
-  return <Eleven />;
+  return <Demo />;
 };
 
 export default App;
